@@ -9,3 +9,4 @@ lista = [1,5,8]
 def procedimiento (lista):
     for i in lista:
         print (i * "x")
+        
